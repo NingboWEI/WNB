@@ -15,3 +15,5 @@
 ## what's more?
 - beside vedio, you can also try converting a picture into txt
 - just type `python img_txt.py YOUR_PICTURE.jpg` in terminal window
+![alt text](picture/blue1.bmp)
+![alt text](picture/blue2.bmp)
